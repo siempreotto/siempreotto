@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @siempreotto I am product manager. 
+- 👋 Hi, I’m @siempreotto I am a product manager. 
 - 👀 I’m interested in Technology 
 - 🌱 I’m currently learning frontend and backend technologies. 
 - 💞️ I’m looking to collaborate on edtech or something intersting.
